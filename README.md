@@ -16,6 +16,7 @@
 
 # System Architecture
 The User_finder Web Application follows a three-tier architecture based on the Model–View–Controller (MVC) design pattern. The system is divided into presentation, application, and data layers to ensure modularity, maintainability, and clarity.
+
 1️⃣ Presentation Layer (View)
 The Presentation Layer is responsible for interacting with the user. It provides web pages where users can enter data and view results.
 Implemented using HTML templates with Jinja
